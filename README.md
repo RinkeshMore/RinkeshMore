@@ -23,6 +23,7 @@ Projects:
 
 Job Market Analysis-
 Utilized PySpark and MLlib for in-depth analysis.
+
 Supermarket Product Analysis-
 Leveraged machine learning models for comprehensive product analysis.
 
